@@ -22,6 +22,12 @@
 	*(http://www.cnblogs.com/jesse131/p/5516279.html)
 #### [*命名规范*]
 	*(https://segmentfault.com/a/1190000008777858)
-
-
+#### [*ESLint 代码规范*]
+	*(http://eslint.cn/docs/rules/)
+#### [*axios中文说明*]
+	*(https://www.kancloud.cn/yunye/axios/234845)
+#### [*npm 指令*]
+	*(http://www.cnblogs.com/PeunZhang/p/5553574.html)
+#### [*git版本命令*]
+	*(https://segmentfault.com/a/1190000007497383)
 
